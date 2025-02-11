@@ -7,8 +7,8 @@
 - **Pass: admin**
 
 ## Create VLANs
-> OLT>enable
-> OLT#config
-> OLT(config)# vlan 100 (single vlna)
-> OLT(config)# vlan 100-500 (vlna range)
+- OLT>enable
+- OLT#config
+- OLT(config)# vlan 100 (single vlna)
+- OLT(config)# vlan 100-500 (vlna range)
 
